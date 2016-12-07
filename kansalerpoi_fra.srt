@@ -8,7 +8,7 @@ Le dictateur
 
 3
 00:00:11,000 --> 00:00:24,400
-Ce récit est une oeuvre de pure documentaires. Par conséquent toute ressemblance avec des situations réelles ou avec des personnes existantes ou ayant existé ne saurait être que naturelle.
+Ce récit est une oeuvre documentaire. Par conséquent toute ressemblance avec des situations réelles ou avec des personnes existantes ou ayant existé ne saurait être que naturelle.
 
 4
 00:00:25,900 --> 00:00:30,800
@@ -36,7 +36,7 @@ Oui, nous sommes libres de modifier la grammaire.
 
 10
 00:00:58,100 --> 00:01:05,400
-Oui! Modifions le lojban de nous, par nous et pour nous!
+Oui! Modifions le lojban nous-même, par nous et pour nous!
 
 11
 00:01:05,600 --> 00:01:09,100
@@ -44,15 +44,15 @@ Oui! Modifions le lojban de nous, par nous et pour nous!
 
 12
 00:01:09,200 --> 00:01:13,000
-je change des mots de nom en unité de tanru (unité d'une suite de mots qui peut être un prédicat)!
+Je change des mots de nom en unité de tanru (unité d'une suite de mots qui peut être un prédicat)!
 
 13
 00:01:13,100 --> 00:01:18,100
-Je change des conjonctions en celles dans le système de Selpahi!
+Je change des conjonctions en celles du système de Selpahi!
 
 14
 00:01:18,200 --> 00:01:23,000
-J'ajoute des mots-outils nouveaux et des natures syntaxiques nouvelles!
+J'ajoute de nouveaux mots-outils et des natures syntaxiques nouvelles!
 
 15
 00:01:23,100 --> 00:01:28,000
@@ -68,27 +68,27 @@ D'accord!
 
 18
 00:01:33,600 --> 00:01:36,600
-La nature syntaxique ZOhOI s'est achevée!
+La nature syntaxique ZOhOI est achevée!
 
 19
 00:01:36,700 --> 00:01:40,100
-La nature syntaxique MEhOI s'est achevée aussi!
+La nature syntaxique MEhOI est achevée aussi!
 
 20
 00:01:42,500 --> 00:01:49,600
-Oh, c'est une grammaire nouvelle! Notre grammaire officielle est satisfaisante à moi!
+Oh, c'est une grammaire nouvelle! Notre grammaire officielle est satisfaisante pour nous !
 
 21
 00:01:49,700 --> 00:01:53,400
-Je suis d'accord à toi. Il n'y a rien à modifier.
+Je suis d'accord avec toi. Il n'y a rien à modifier.
 
 22
 00:01:53,500 --> 00:02:02,000
-J'ai travaillé dur la grammaire officielle. Je ne veux pas apprendre la grammaire nouvelle.
+J'ai travaillé dur sur la grammaire officielle. Je ne veux pas apprendre la nouvelle grammaire.
 
 23
 00:02:03,800 --> 00:02:10,600
-La grammaire de #lojban IRC est tout à fait la grammaire de dialectes modernes du lojban.
+La grammaire de #lojban IRC est la grammaire des dialectes modernes du lojban.
 
 24
 00:02:10,700 --> 00:02:14,000
@@ -104,11 +104,11 @@ Oh mon dieu!
 
 27
 00:02:31,200 --> 00:02:37,300
-Chapitre: Voici la citation de Gleki et les utilisateurs du #lojban IRC.
+Chapitre: Voici la citation de Gleki et des utilisateurs du #lojban IRC.
 
 28
 00:02:38,300 --> 00:02:42,400
-« Le Coup de Cours par La Gleki (CC). »
+« Le Cours Crash par La Gleki (CC). »
 
 29
 00:02:42,500 --> 00:02:47,000
@@ -116,7 +116,7 @@ Il enseigne La Bangu aux débutants.
 
 30
 00:02:47,100 --> 00:02:57,000
-Elle a des conflits du lojban de CLL. Voici les différences entre les dialectes modernes du lojban est la langue décrite sur CLL.
+Elle a des conflits avec le lojban du CLL. Voici les différences entre les dialectes modernes du lojban et la langue décrite sur CLL.
 
 31
 00:02:57,100 --> 00:03:01,100
@@ -128,15 +128,15 @@ Aïe! Aïe! Gleki a envahi le site officiel!
 
 33
 00:03:08,300 --> 00:03:14,300
-Oh là là! Gleki manque complètement de la démarche du Comité de Planification de la Langue.
+Oh là là! Gleki se passe complètement de la démarche du Comité de Planification de la Langue.
 
 34
 00:03:14,400 --> 00:03:25,000
-De plus, cet analyseur-là manque d'information sur le créateur, et cependant mis sur le site officiel.
+De plus, cet analyseur-là manque d'information sur son créateur, et cependant est mis sur le site officiel.
 
 35
 00:03:25,100 --> 00:03:33,600
-Ça doit tromper les lojbophones à croire que cet analyseur est approuvé par le corps officiel.
+Ça doit tromper les lojbophones de croire que cet analyseur est approuvé par le corps officiel.
 
 36
 00:03:35,800 --> 00:03:38,100
@@ -164,7 +164,7 @@ Je vais vous l'expliquer.
 
 42
 00:03:56,100 --> 00:04:01,400
-Les natures syntaxiques ZOhOI et MEhOI sont étiquettes à un mot non-lojbannais.
+Les natures syntaxiques ZOhOI et MEhOI sont des étiquettes pour un mot non-lojbannais.
 
 43
 00:04:01,500 --> 00:04:11,200
@@ -172,7 +172,7 @@ On dit que c'est une pause ou un coup de glotte qui sépare un mot non-lojbannai
 
 44
 00:04:11,300 --> 00:04:20,000
-Cependant, des langues polynésiennes incluent des mots qui incluent des coups de glotte.
+Cependant, des langues polynésiennes ont des mots qui incluent des coups de glotte.
 
 45
 00:04:20,100 --> 00:04:27,500
@@ -180,11 +180,11 @@ Il y a donc des mots polynésiens sur lesquels les natures syntaxiques ZOhOI et 
 
 46
 00:04:27,600 --> 00:04:34,500
-Par exemple, « zo'oi `uli`uli » (« ` » est un signe d'un coup de glotte dans la langue hawaïenne.)
+Par exemple, « zo'oi `uli`uli » (« ` » est le signe d'un coup de glotte dans la langue hawaïenne.)
 
 47
 00:04:39,000 --> 00:04:51,800
-Les natures syntaxiques ZOhOI et MEhOI donc contreviennent à l'idée de neutralité décrite dans la section 1.1 du livre The Complete Lojban Language.
+Les natures syntaxiques ZOhOI et MEhOI contreviennent donc à l'idée de neutralité décrite dans la section 1.1 du livre The Complete Lojban Language.
 
 48
 00:04:55,500 --> 00:04:58,900
@@ -196,11 +196,11 @@ Je crois que les utilisateurs du #lojban IRC n'ont pas l'intention de t'offenser
 
 50
 00:05:03,100 --> 00:05:09,200
-Tant pis! Il me semble que les utilisateurs du #lojban IRC manquent de l'idée de neutralité.
+Tant pis! Il me semble que les utilisateurs du #lojban IRC oublient l'idée de neutralité.
 
 51
 00:05:09,300 --> 00:05:19,500
-Mais les natures syntaxiques sauf ZOhOI  ou MEhOI ne sont pas très mauvaises aux lojbophones.
+Mais les natures syntaxiques, en dehors de ZOhOI ou MEhOI, ne sont pas si mauvaises pour les lojbophones.
 
 52
 00:05:19,600 --> 00:05:22,500
@@ -212,7 +212,7 @@ Euh, je ne sais pas.
 
 54
 00:05:31,700 --> 00:05:33,800
-C'est pourquoi?
+Pourquoi?
 
 55
 00:05:33,900 --> 00:05:38,500
@@ -232,7 +232,7 @@ Mais je ne veux pas obéir à la grammaire du #lojban IRC, qui est trop laide po
 
 59
 00:05:55,600 --> 00:06:02,400
-Je veux obéir une autre grammaire, qui est belle pour moi.
+Je veux obéir à une autre grammaire, qui est belle pour moi.
 
 60
 00:06:02,500 --> 00:06:10,900
@@ -248,7 +248,7 @@ Bravo, la variété!
 
 63
 00:06:19,500 --> 00:06:28,900
-Quand le mot « jo'au » fait partie de la grammaire, il n'y a aucune raison pour qu'il n'y a qu'une seule grammaire lojbannaise.
+Puisque le mot « jo'au » fait partie de la grammaire, il n'y a aucune raison pour qu'il n'y a qu'une seule grammaire lojbannaise.
 
 64
 00:06:36,800 --> 00:07:03,700
@@ -260,7 +260,7 @@ Oui, en utilisant le mot « jo'au », les auditeurs savent à quoi le texte obé
 
 66
 00:07:42,300 --> 00:08:17,000
-En voulant créer je crée ma grammaire, à laquelle j'obéis. En voulant créer je crée ma grammaire, qui est belle pour moi.
+En voulant créer, je crée ma grammaire, à laquelle j'obéis. En voulant créer, je crée ma grammaire, qui est belle pour moi.
 
 67
 00:08:18,000 --> 00:08:21,300
@@ -272,7 +272,7 @@ Euh, je nomme mon analyseur syntaxique « Zantufa (Analyseur Satisfaisant) ».
 
 69
 00:08:29,500 --> 00:08:36,500
-Section: Je vais séparer les ciffres et les autres lettres dans la structure.
+Section: Je vais séparer les chiffres et les autres lettres dans la structure.
 
 70
 00:08:41,000 --> 00:08:48,000
@@ -288,7 +288,7 @@ Je vais vous l'expliquer.
 
 73
 00:08:54,600 --> 00:08:59,700
-Par exemple, « 8 » est un chiffre et « n » est une lettre non-chiffre.
+Par exemple, « 8 » est un chiffre et « n » est une lettre non-chiffrée.
 
 74
 00:08:59,800 --> 00:09:06,900
@@ -308,7 +308,7 @@ Et, pour séparer « 8 » et « n », il faut dire « boi », par exemple
 
 78
 00:09:35,800 --> 00:09:42,300
-Section: Je vais faire le mot-outil « pi'e » appartenir à la nature syntaxique VUhU.
+Section: Je vais faire que le mot-outil « pi'e » appartienne à la nature syntaxique VUhU.
 
 79
 00:09:47,000 --> 00:09:53,000
@@ -332,7 +332,7 @@ signifie un nombre,
 
 84
 00:10:09,100 --> 00:10:18,400
-et il dépend seulement de signification de « pi'e » que le mot « pi'e » coupe une suite de chiffres en deux parties.
+et la signification de « pi'e » indique seulement que le mot « pi'e » coupe une suite de chiffres en deux parties.
 
 85
 00:10:24,300 --> 00:10:30,500
@@ -340,7 +340,7 @@ Elle a déplacé le mot « pi'e » à VUhU.
 
 86
 00:10:30,600 --> 00:10:34,000
-C'est quelque peu pire.
+C'est quelque peu mauvais.
 
 87
 00:10:34,100 --> 00:10:36,900
@@ -352,7 +352,7 @@ Section: Je vais modifier un peu la structure de la nature syntaxique SI,
 
 89
 00:10:46,400 --> 00:10:51,600
-de plus, je vais faire les mots-outils « ze'ei » et « zei » appartenir à la nature syntaxique SI.
+de plus, je vais faire que les mots-outils « ze'ei » et « zei » appartiennent à la nature syntaxique SI.
 
 90
 00:10:56,200 --> 00:11:04,300
@@ -380,11 +380,11 @@ Par exemple, « oi si coi (aïe, oh pardon, salut!) »
 
 96
 00:11:31,600 --> 00:11:37,000
-De plus, le mot-outil « zei » fait les deux mots une unité de tanru (unité d'une suite de mots qui peut être un prédicat).
+De plus, le mot-outil « zei » transforme les deux mots en une unité de tanru (unité d'une suite de mots qui peut être un prédicat).
 
 97
 00:11:37,100 --> 00:11:45,900
-Par exemple, « vanci zei coi (être salutation du soir) ».
+Par exemple, « vanci zei coi (salutation du soir) ».
 
 98
 00:11:46,000 --> 00:11:50,900
@@ -392,7 +392,7 @@ Selon Zantufa, le mot-outil « si » n'est pas changé,
 
 99
 00:11:51,000 --> 00:12:01,100
-mais les mots-outils « zei » ou « ze'ei » joint la signification d'un mot précédent et la structure syntaxique d'un mot suivant,
+mais les mots-outils « zei » ou « ze'ei » joignent la signification du mot précédent et la structure syntaxique du mot suivant,
 
 100
 00:12:01,200 --> 00:12:08,900
@@ -400,7 +400,7 @@ par exemple, « vanci zei coi (Bonsoir!) »
 
 101
 00:12:18,300 --> 00:12:26,500
-Ha! Ha! Zantufa a fait les mots-outils « zei » et « ze'ei » appartenir à la nature syntaxique SI.
+Ha! Ha! Zantufa a fait que les mots-outils « zei » et « ze'ei » appartiennent à la nature syntaxique SI.
 
 102
 00:12:26,600 --> 00:12:29,700
@@ -408,7 +408,7 @@ Oui, super.
 
 103
 00:12:35,300 --> 00:12:42,200
-Section: Je vois la nature syntaxique SA qui pénètre des structures diverses comme un réseau.
+Section: Je vois que la nature syntaxique SA pénètre les structures diverses comme un réseau.
 
 104
 00:12:42,300 --> 00:12:45,800
@@ -416,11 +416,11 @@ C'est très laid.
 
 105
 00:12:45,900 --> 00:12:53,500
-Oui, mais il n'y a pas de moyen à simplifier la structure de la nature syntaxique SA.
+Oui, mais il n'y a pas de moyen de simplifier la structure de la nature syntaxique SA.
 
 106
 00:12:53,600 --> 00:13:01,700
-Mais cette structure laid même ne satisfait pas ce que les utilisateurs veulent.
+Mais cette structure laide ne satisfait même pas ce que les utilisateurs veulent.
 
 107
 00:13:01,800 --> 00:13:08,300
@@ -444,7 +444,7 @@ C'est analysé comme ça.
 
 112
 00:13:34,600 --> 00:13:43,000
-Et puis, un analyseur semantique analysera comme « do ba sanji tu (tu t'apercevras celà là-bas.) »
+Et puis, un analyseur semantique analysera comme « do ba sanji tu (tu apercevras celà là-bas.) »
 
 113
 00:13:43,100 --> 00:13:50,500
@@ -452,7 +452,7 @@ Exactement, la nature syntaxique SA ne s'aperçoit pas que le mot-outil « pa »
 
 114
 00:13:50,600 --> 00:14:02,100
-Par exemple, « do pa sanji tu sa ba sanji tu (toi, un apercevant, là-bas,  -pardon, t'apercevras celà là-bas.) »
+Par exemple, « do pa sanji tu sa ba sanji tu (toi, un apercevant, là-bas,  -pardon, tu apercevras celà là-bas.) »
 
 115
 00:14:02,200 --> 00:14:04,700
@@ -476,7 +476,7 @@ Je dis « adieu » à la nature syntaxique SA.
 
 120
 00:14:43,300 --> 00:14:47,500
-Je manque de la nature syntaxique SA, comme je le voulais.
+J'enlève la nature syntaxique SA, comme je le voulais.
 
 121
 00:14:47,600 --> 00:14:49,800
@@ -484,11 +484,11 @@ Joie!
 
 122
 00:14:50,300 --> 00:14:55,000
-Ça y est! Elle est devenue beaucoup plus simple et beau.
+Ça y est! Elle est devenue beaucoup plus simple et belle.
 
 123
 00:14:55,900 --> 00:15:00,900
-Section: Je vais modifier la structure de conjonctions.
+Section: Je vais modifier la structure des conjonctions.
 
 124
 00:15:05,500 --> 00:15:13,300
@@ -564,7 +564,7 @@ Mes conjonctions préposées sont utiles aux structures syntaxiques variées.
 
 142
 00:17:37,000 --> 00:17:45,200
-Mes conjonctions préposées sont capables de qualifier un nombre quelconque pluriel de parties.
+Mes conjonctions préposées sont capables de qualifier un nombre varié de parties.
 
 143
 00:17:45,300 --> 00:17:53,800
@@ -596,7 +596,7 @@ Aïe! Aïe!
 
 150
 00:18:36,800 --> 00:18:38,900
-Elle a tripoté beaucoup.
+Elle a tripoté beaucoup de choses.
 
 151
 00:18:39,000 --> 00:18:43,500
@@ -612,7 +612,7 @@ Oui.
 
 154
 00:18:52,200 --> 00:18:57,100
-J'ai pensé que ça a vraiment des problèmes de l'ambiguïté mauvaise.
+Je pensait que cela générait vraiment des problèmes de mauvaise ambiguïté.
 
 155
 00:18:57,200 --> 00:19:03,600
@@ -640,7 +640,7 @@ C'est remplacé par « gi je », bizarrement.
 
 161
 00:19:37,100 --> 00:19:43,700
-À propos de la suite de mots comme suit, il faut que non-Zantufa aussi l'inclue.
+À propos de la suite de mots comme suit, il faut que non-Zantufa aussi l'inclut.
 
 162
 00:19:43,800 --> 00:19:50,700
@@ -692,7 +692,7 @@ Ah, j'ai fait une faute.
 
 174
 00:21:03,100 --> 00:21:08,300
-Je remercie à l'utilisateur du #lojban IRC qui a trouvé la faute!
+Je remercie l'utilisateur du #lojban IRC qui a trouvé la faute!
 
 175
 00:21:08,800 --> 00:21:14,900
@@ -712,11 +712,11 @@ et la proposition signifiée par une formule hors de la structure NU...
 
 179
 00:21:40,400 --> 00:21:48,000
-n'ont pas toujours un univers commun du discours.
+n'ont pas toujours un univers commun dans le discours.
 
 180
 00:21:48,100 --> 00:21:59,200
-En étant motivée, j'ai donné le pouvoir logique complet  au univers du discours de la structure de NU.
+En étant motivée, j'ai donné le pouvoir logique complet à l'univers du discours de la structure de NU.
 
 181
 00:21:59,300 --> 00:22:09,500
@@ -756,11 +756,11 @@ Donc, Zantufa s'équipe de JE CU et il a changé le sens de « gi'i »,
 
 190
 00:22:55,400 --> 00:23:03,400
-mais il ne s'équipe pas GA JE et GU JE.
+mais il ne s'équipe pas de GA JE et GU JE.
 
 191
 00:23:03,500 --> 00:23:09,400
-Attends, Zantufa a peut-être pris une autre manière ...
+Attends, Zantufa a peut-être utilisé une autre manière ...
 
 192
 00:23:09,500 --> 00:23:16,600
@@ -776,7 +776,7 @@ Deux versions sont approuvées.
 
 195
 00:23:28,100 --> 00:23:35,300
-Ah. Comment sont-ils distingués, tanru (une suite d'unités qui peuvent être un prédicat) et bridi (relation de prédicat; le parlant confond cela avec une formule)
+Ah. Comment sont distingués les tanru (une suite d'unités qui peuvent être un prédicat) et les bridi (relation de prédicat; le parlant confond cela avec une formule) ?
 
 196
 00:23:35,400 --> 00:23:43,500
@@ -784,11 +784,11 @@ Ah. Comment sont-ils distingués, tanru (une suite d'unités qui peuvent être u
 
 197
 00:23:43,600 --> 00:23:53,000
-Je ne sais pas. Je me suis éfforcé de faire analyser dans la forme de la préposée de non-tanru et d'y échouer.
+Je ne sais pas. Je me suis efforcé de faire analyser dans la forme de la préposée de non-tanru et d'y échouer.
 
 198
 00:23:53,100 --> 00:23:57,500
-Pardon, je voulais dire « éfforcé de faire cela, mais j'y ai échoué. »
+Pardon, je voulais dire « efforcé de faire cela, mais j'y ai échoué. »
 
 199
 00:23:57,600 --> 00:24:10,300
@@ -832,7 +832,7 @@ Je n'aime pas ça.
 
 209
 00:25:07,000 --> 00:25:13,900
-Ça contrevient cependant « i bo » de Gleki.
+Ça contrevient cependant à « i bo » de Gleki.
 
 210
 00:25:18,500 --> 00:25:22,700
@@ -844,7 +844,7 @@ Selon Gleki, c'est la manière d'ajouter une structure de la nature syntaxique U
 
 212
 00:25:32,000 --> 00:25:38,400
-J'ai observé que cela est enseigné dans Le Coup de Cours,
+J'ai observé que cela est enseigné dans Cours Crash,
 
 213
 00:25:38,500 --> 00:25:47,100
@@ -868,7 +868,7 @@ Je suis d'accord avec toi. Ce que Gleki enseigne ne concorde pas avec le systèm
 
 218
 00:26:21,700 --> 00:26:31,500
-Gleki peut-être veut que cette signification-là soit la propriété spéciale de « i bo ui » parmi les qualificatifs libres.
+Gleki veut peut-être que cette signification-là soit la propriété spéciale de « i bo ui » parmi les qualificatifs libres.
 
 219
 00:26:31,600 --> 00:26:40,400
@@ -960,7 +960,7 @@ Le changement sémantique de « i » qui suit des abstractions doit être désas
 
 241
 00:28:48,300 --> 00:29:02,800
-Par exemple, « i mi djica lo nu tu'e do klama lo mi zdani i ba bo mi'o samkei kansi'u tu'u (je veux que tu viennes chez moi et puit nous jouions des jeux vidéo ensemble.) »
+Par exemple, « i mi djica lo nu tu'e do klama lo mi zdani i ba bo mi'o samkei kansi'u tu'u (je veux que tu viennes chez moi et puis que nous jouions aux jeux vidéo ensemble.) »
 
 242
 00:29:04,900 --> 00:29:11,700
@@ -976,7 +976,7 @@ alors que Zantufa n'a pas de problème.
 
 245
 00:29:24,900 --> 00:29:37,100
-« i mi djica lo nu tu'e do klama lo mi zdani i ba bo mi'o samkei kansi'u tu'u (je veux que tu viennes chez moi et puit nous jouions des jeux vidéo ensemble.) »
+« i mi djica lo nu tu'e do klama lo mi zdani i ba bo mi'o samkei kansi'u tu'u (je veux que tu viennes chez moi et que nous jouions aux jeux vidéo ensemble.) »
 
 246
 00:29:41,200 --> 00:29:46,300
@@ -1020,11 +1020,11 @@ Calme-toi.
 
 256
 00:30:47,100 --> 00:30:52,600
-Tous sont libres de préférer des dialects anti-logiques du lojban.
+Tous sont libres de préférer les dialects anti-logiques du lojban.
 
 257
 00:30:52,700 --> 00:30:59,600
-Toi aussi, tu n'as pas encore expliqué comment ton dialect concorde avec les études de logique.
+Toi aussi, tu n'as pas encore expliqué comment ton dialecte concorde avec les études de logique.
 
 258
 00:30:59,700 --> 00:31:09,200
@@ -1060,7 +1060,7 @@ Donc, au point de vue des études de logique, le mot-outil « i » qui précède
 
 266
 00:32:16,500 --> 00:32:21,600
-Les utilisateurs du #lojban IRC manque de cette idée des études de logique comme ça.
+Les utilisateurs du #lojban IRC oublient cette idée des études de logique comme ça.
 
 267
 00:32:21,700 --> 00:32:34,300
@@ -1072,19 +1072,19 @@ Comme j'avais dit à 21m 15s de ce film,
 
 269
 00:32:42,700 --> 00:32:55,700
-Je pense que l'intérieur de la structure NU et l'extérieur d'elle n'ont pas toujours un univers du discours commun.
+Je pense que l'intérieur et l'extérieur de la structure NU n'ont pas toujours un univers du discours commun.
 
 270
 00:32:55,800 --> 00:33:09,300
-Il me semble donc qu'il est de la folie d'empêcher qu'on utilise une conjonction postposée pour signifier une vérité dans l'univers du discours de la structure NU.
+Il me semble donc que c'est de la folie d'empêcher qu'on utilise une conjonction postposée pour signifier une vérité dans l'univers du discours de la structure NU.
 
 271
 00:33:09,800 --> 00:33:18,700
-Ben, ce n'est pas très rationnel au point de vue des études de logique, mise à part si c'est de la folie.
+Ben, ce n'est pas très rationnel du point de vue des études de logique, mise à part si c'est de la folie.
 
 272
 00:33:18,800 --> 00:33:32,700
-Il est laid aussi que la structure NU n'est pas récursif au point de la conjonction postposée dans une phrase qui signifie une vérité.
+Il est laid aussi que la structure NU ne soit pas récursive au point de la conjonction postposée dans une phrase qui signifie une vérité.
 
 273
 00:33:32,800 --> 00:33:41,000
@@ -1104,7 +1104,7 @@ Oui, mais je crois que les idées logiques et la beauté ne sont pas importantes
 
 277
 00:34:11,100 --> 00:34:15,500
-Ce qui est important pour eux est différent de nôtre.
+Ce qui est important pour eux est différent de ce qui l'est pour nous.
 
 278
 00:34:15,600 --> 00:34:18,900
@@ -1136,7 +1136,7 @@ Terminateur de « gi » n-naire.
 
 285
 00:34:51,000 --> 00:34:59,700
-Heureusement, quelques catactéristiques de Zantufa ne sont pas très mauvaises même aux utilisateurs du #lojban IRC.
+Heureusement, quelques caractéristiques de Zantufa ne sont pas si mauvaises même pour les utilisateurs du #lojban IRC.
 
 286
 00:35:00,100 --> 00:35:06,200
@@ -1144,7 +1144,7 @@ Section: la structure de la nature syntaxique KE de la grammaire officielle n'es
 
 287
 00:35:06,300 --> 00:35:13,900
-En étant motivée, j'ai fait la structure de KE de Zantufa propre.
+En étant motivée, j'ai rendu la structure de KE de Zantufa propre.
 
 288
 00:35:14,000 --> 00:35:15,700
@@ -1176,7 +1176,7 @@ est agrammatical.
 
 295
 00:35:44,400 --> 00:35:50,000
-La grammaire de Zantufa est un resultat d'élimination de ce défaut.
+La grammaire de Zantufa est le resultat de l'élimination de ce défaut.
 
 296
 00:35:50,100 --> 00:35:58,600
@@ -1200,11 +1200,11 @@ le premier développement de ce qu'on doit faire comme ça.
 
 301
 00:36:24,500 --> 00:36:30,000
-Comment donc nous allons réparer camxes-exp (analyseur pour les utilisateurs du #lojban IRC) pour faire analyser cela :)
+Comment donc allons-nous réparer camxes-exp (analyseur pour les utilisateurs du #lojban IRC) pour faire analyser cela :)
 
 302
 00:36:30,100 --> 00:36:41,100
-parce que Zantufa a quelques d'autres propriétés problématiques qui le disqualifie pour l'utilisation générale.
+parce que Zantufa a quelques autres propriétés problématiques qui le disqualifie pour l'utilisation générale.
 
 303
 00:36:41,200 --> 00:36:44,500
@@ -1212,7 +1212,7 @@ Oui, je sais T.T
 
 304
 00:36:44,600 --> 00:37:00,000
-note: La structure nouvelle « i bo UI » favorite de Gleki est cassée sous le changement maivais de « i » de Zantufa.
+note: La structure nouvelle « i bo UI » favorite de Gleki est cassée avec le mauvais changement de « i » de Zantufa.
 
 305
 00:37:04,700 --> 00:37:11,600
@@ -1236,11 +1236,11 @@ C'est pourquoi leur grammaire est laide.
 
 310
 00:37:37,900 --> 00:37:42,800
-Mais ce qui est laid à toi est satisfaisant aux utilisateurs du #lojban IRC.
+Mais ce qui est laid pour toi est satisfaisant pour les utilisateurs du #lojban IRC.
 
 311
 00:37:42,900 --> 00:37:48,100
-Comme j'avais dit, c'est simplement que ce qui est satisfaisant est différent entre toi et eux.
+Comme j'avais dit, c'est simplement que ce qui est satisfaisant est différent pour toi et pour eux.
 
 312
 00:37:50,000 --> 00:37:53,600
@@ -1252,7 +1252,7 @@ parce que je donne à la nature syntaxique FA la capacité de qualifier un sumti
 
 314
 00:38:02,500 --> 00:38:06,000
-Je vais faire la nature syntaxique SE remplacée par la nature syntaxique FA.
+Je vais faire que la nature syntaxique SE soit remplacée par la nature syntaxique FA.
 
 315
 00:38:06,100 --> 00:38:10,400
@@ -1308,7 +1308,7 @@ Hé, Mankant!
 
 328
 00:39:26,700 --> 00:39:36,000
-Ça ne concorde pas avec les textes anciens dans la propriété de la structure de l'étiquette à étiquettes ou conjonctions.
+Ça ne concorde pas avec les textes anciens à propos de la propriété de la structure de l'étiquette à étiquettes ou conjonctions.
 
 329
 00:39:36,100 --> 00:39:43,100
@@ -1332,11 +1332,11 @@ De plus, « fe ke gu ra gi ri (cela, n'importe si ceci fait) ».
 
 334
 00:40:16,100 --> 00:40:20,800
-D'accord, je t'ai simplement fait remarquer que c'est différent beaucoup,
+D'accord, je t'ai simplement fait remarquer que c'est très différent,
 
 335
 00:40:20,900 --> 00:40:28,600
-parce que tu faisais des efforts pour le faire assez concordant avec les textes qui conforment à la grammaire officielle.
+parce que tu faisais des efforts pour le faire assez concordant avec les textes qui se conforment à la grammaire officielle.
 
 336
 00:40:28,700 --> 00:40:33,600
@@ -1372,11 +1372,11 @@ Pour le moment, je permet que la nature syntaxique SE ne soit pas encore remplac
 
 344
 00:41:31,100 --> 00:41:39,000
-Mais dans le futur lointain, je veux faire les natures syntaxiques SE et FA fusionner en une.
+Mais dans un futur lointain, je veux faire que les natures syntaxiques SE et FA fusionneent en une seule.
 
 345
 00:41:39,100 --> 00:41:43,500
-Ce sera l'analyseur d'extrême satisfaisant, ha! ha!
+Ce sera l'analyseur extrêmement satisfaisant, ha! ha!
 
 346
 00:41:43,600 --> 00:41:45,900
@@ -1384,7 +1384,7 @@ Ha! Ha!
 
 347
 00:41:48,000 --> 00:41:57,900
-Et mdr Zantufa... elle a modifié FA pour « to'ai/vo'ai/xo'ai »
+Et MDR Zantufa... elle a modifié FA pour « to'ai/vo'ai/xo'ai »
 
 348
 00:41:58,000 --> 00:41:59,400
@@ -1400,11 +1400,11 @@ Comment donc sont-ils, leurs rafsi-s (formes conjointes)?
 
 351
 00:42:05,100 --> 00:42:14,000
-Ah, mdr. rafsi: faq feq fiq foq fuq
+Ah, MDR. rafsi: faq feq fiq foq fuq
 
 352
 00:42:14,100 --> 00:42:15,600
-mdr.
+MDR.
 
 353
 00:42:15,700 --> 00:42:18,800
@@ -1412,11 +1412,11 @@ Ben, je ne l'aime pas.
 
 354
 00:42:18,900 --> 00:42:22,500
-Il est apparemment util à la première vue,
+Il est apparemment utile à première vue,
 
 355
 00:42:22,600 --> 00:42:27,800
-mais cette manière est inconsistente, discourdante avec l'unification d'étiquettes.
+mais cette manière est inconsistente, discordante avec l'unification d'étiquettes.
 
 356
 00:42:31,000 --> 00:42:35,900
@@ -1424,7 +1424,7 @@ Section: la structure de la nature syntaxique SEI est bizarre.
 
 357
 00:42:36,000 --> 00:42:42,700
-Sa propriété est différente de celle de la nature syntaxique LE sur le point de nombre de termes inclus dans la structure.
+Sa propriété est différente de celle de la nature syntaxique LE à propos du nombre de termes inclus dans la structure.
 
 358
 00:42:42,800 --> 00:42:50,000
@@ -1436,7 +1436,7 @@ et « le ti pa sfubu (un plongeur de ceci) ».
 
 360
 00:42:57,400 --> 00:43:04,000
-De plus, sa propriété est différente de celle de la nature syntaxique NU sur le point si une formule atomique est inclus.
+De plus, sa propriété est différente de celle de la nature syntaxique NU lorsqu'une formule atomique est inclus.
 
 361
 00:43:04,100 --> 00:43:12,400
@@ -1444,7 +1444,7 @@ Par exemple, « sei ca ku ta sfubu tu ti (—maintenant, cela plonge— cela là
 
 362
 00:43:12,500 --> 00:43:20,300
-et « nu ca ku ta sfubu tu ti (évenement que maintenant cela plonge dans cela là-bas depuis ici) »
+et « nu ca ku ta sfubu tu ti (évènement que maintenant cela plonge dans cela là-bas depuis ici) »
 
 363
 00:43:20,400 --> 00:43:26,100
@@ -1468,7 +1468,7 @@ Puis, dans ce cas-là, il faut que le nouveau « soi » de Selpahi appartient à
 
 368
 00:44:03,300 --> 00:44:14,500
-« mi sei la'a do na sanji ke'a cu dasni lo cnino se panci (Moi —peut-être tu ne t'en aperçois pas— je m'habille de nouveau parfum.) »
+« mi sei la'a do na sanji ke'a cu dasni lo cnino se panci (Moi —peut-être tu ne t'en aperçois pas— je m'habille d'un nouveau parfum.) »
 
 369
 00:44:14,600 --> 00:44:17,000
@@ -1496,7 +1496,7 @@ C'est justement la simplicité de la grammaire.
 
 375
 00:44:36,100 --> 00:44:40,600
-Je ne vois pas de nécéssité de le changer.
+Je ne vois pas de nécessité de le changer.
 
 376
 00:44:40,700 --> 00:44:46,500
@@ -1512,7 +1512,7 @@ Si tu as besoin d'un mot-outil qui a la signification de « sei » et la forme q
 
 379
 00:45:12,000 --> 00:45:19,700
-J'ai peur que les choses de Zantufa cessent vraiment d'être langue lojbannaise, sérieusement ou pas.
+J'ai peur que les choses de Zantufa cessent vraiment d'être de langue lojbannaise, sérieusement ou pas.
 
 380
 00:45:19,800 --> 00:45:21,800
@@ -1520,15 +1520,15 @@ Oui.
 
 381
 00:45:23,500 --> 00:45:29,700
-Il me semble qu'ils n'ont pas peur que leurs dialects cessent d'être la langue lojbannaise.
+Il me semble qu'ils n'ont pas peur que leurs dialectes cessent d'être de la langue lojbannaise.
 
 382
 00:45:29,800 --> 00:45:32,000
-C'est pourquoi?
+Comment ?
 
 383
 00:45:32,100 --> 00:45:38,000
-Je crois donc qu'ils pense que leurs dialects sont encore la langue lojbannaise.
+Je crois donc qu'ils pensent que leurs dialectes sont encore la langue lojbannaise.
 
 384
 00:45:38,100 --> 00:45:41,900
@@ -1536,7 +1536,7 @@ Quel égocentristes!
 
 385
 00:45:42,000 --> 00:45:53,000
-Ben, en tout cas, il n'est pas rationnel qu'ils ont peur d'un dialect que eux-mêmes ne parle pas.
+Ben, en tout cas, ce n'est pas rationnel qu'ils aient peur d'un dialecte que eux-mêmes ne parlent pas.
 
 386
 00:45:53,700 --> 00:46:04,100
@@ -1568,7 +1568,7 @@ Oui.
 
 393
 00:46:37,800 --> 00:46:46,000
-De plus, il est concordant avec les études de logique que le mot-outil « iau » termine seulement une formule complète.
+De plus, c'est concordant avec les études de logique que le mot-outil « iau » termine seulement une formule complète.
 
 394
 00:46:46,100 --> 00:46:48,200
@@ -1604,15 +1604,15 @@ Pas du tout.
 
 402
 00:47:23,300 --> 00:47:28,600
-Jbofihe fou même analysera ça.
+Même Jbofihe fou analyserait ça.
 
 403
 00:47:28,700 --> 00:47:34,500
-C'est une honte, Zantufa, honte :)
+C'est une honte, Zantufa, une honte :)
 
 404
 00:47:34,600 --> 00:47:36,800
-mdr.
+MDR.
 
 405
 00:47:39,900 --> 00:47:44,300
@@ -1700,7 +1700,7 @@ Je vais vous l'expliquer.
 
 426
 00:49:42,800 --> 00:49:50,700
-D'un côté, selon la grammaire officielle, la nature syntaxique GUhA qualifie tanru (une suite d'unités qui peuvent être un prédicat), mais la nature syntaxique GA ne le qualifie,
+D'un côté, selon la grammaire officielle, la nature syntaxique GUhA qualifie tanru (une suite d'unités qui peuvent être un prédicat), mais la nature syntaxique GA ne le qualifie pas,
 
 427
 00:49:50,800 --> 00:49:58,900
@@ -1708,11 +1708,11 @@ par exemple, « ge gu'a crino gi xunre gi sinxa (c'est vert ou rouge, et le sign
 
 428
 00:49:59,000 --> 00:50:13,200
-À propos, le natures syntaxiques GA et GUhA de la grammaire officielle qualifient seulement deux choses, donc « ge » qualifie « sinxa », et « gu'a » ne le qualifie pas.
+À propos, la nature syntaxiques GA et GUhA de la grammaire officielle qualifient seulement deux choses, donc « ge » qualifie « sinxa », et « gu'a » ne le qualifie pas.
 
 429
 00:50:13,300 --> 00:50:20,000
-D'un autre côté, selon Zantufa, la nature syntaxique GA qualifie aussi tanru (une suite d'unités qui peuvent être un prédicat),
+D'un autre côté, selon Zantufa, la nature syntaxique GA qualifie aussi un tanru (une suite d'unités qui peuvent être un prédicat),
 
 430
 00:50:20,100 --> 00:50:30,200
@@ -1740,15 +1740,15 @@ Chapitre: Le résultat des affaires.
 
 436
 00:51:09,100 --> 00:51:17,200
-Oh, Gleki aussi, il dit que ta langue n'est pas la langue lojbannaise.
+Oh, Gleki aussi dit que ta langue n'est pas la langue lojbannaise.
 
 437
 00:51:17,300 --> 00:51:21,800
-Oh, Lui aussi, il met ma langue hors de l'ensemble des langues lojbannaises.
+Oh, lui aussi met ma langue hors de l'ensemble des langues lojbannaises.
 
 438
 00:51:21,900 --> 00:51:31,100
-Je me souviens cependant que Gleki enseignait aux débutants que les dialects du #lojban IRC sont le lojban moderne.
+Je me souviens cependant que Gleki enseignait aux débutants que les dialectes du #lojban IRC sont le lojban moderne.
 
 439
 00:51:31,200 --> 00:51:32,300
@@ -1768,11 +1768,11 @@ Gleki utilise un compte du site officiel et des comptes officiels imités pour p
 
 443
 00:51:55,300 --> 00:52:07,400
-Cela trompe tous qui sont intéréssés au lojban; en conséquence ils croient que les avis de Gleki sont les avis officiels.
+Cela trompe tous ceux qui sont intéréssés par le lojban; en conséquence ils croient que les avis de Gleki sont les avis officiels.
 
 444
 00:52:07,500 --> 00:52:16,900
-J'endure que les utilisateurs du #lojban IRC prétendent que leurs dialects sont lojban et celui de Zantufa n'est pas lojban.
+J'endure que les utilisateurs du #lojban IRC prétendent que leurs dialectes sont du lojban et que celui de Zantufa n'est pas du lojban.
 
 445
 00:52:17,000 --> 00:52:21,100
@@ -1784,7 +1784,7 @@ Cependant, il est intolérable que Gleki utilise les comptes officiels ou imité
 
 447
 00:52:27,400 --> 00:52:33,600
-Le résultat sera que la langue lojbannaise est uniformément les dialects du #lojban IRC.
+Le résultat sera que la langue lojbannaise est uniformément les dialectes du #lojban IRC.
 
 448
 00:52:33,700 --> 00:52:41,400
@@ -1796,7 +1796,7 @@ Gleki, il est vraiment violent et dictateur.
 
 450
 00:52:47,500 --> 00:52:49,900
-Je ne le tolèrera jamais.
+Je ne le tolèrerait jamais.
 
 451
 00:52:59,200 --> 00:53:04,000
@@ -1804,11 +1804,11 @@ Chanté en dialect Zantufa.
 
 452
 00:53:04,100 --> 00:53:10,200
-Est-ce que tu sens la fente de couleur?
+Est-ce que tu sens la couleur du schisme ?
 
 453
 00:53:10,300 --> 00:53:17,800
-Rationnel beaucoup selon tous les formes syntaxiques préférables.
+Très rationnel selon toutes les formes syntaxiques préférables.
 
 454
 00:53:17,900 --> 00:53:24,100
@@ -1820,11 +1820,11 @@ dit ce qui était un de mes amis.
 
 456
 00:53:32,700 --> 00:53:38,800
-Est-ce que tu sens la fente de couleur?
+Est-ce que tu sens la couleur du schisme?
 
 457
 00:53:38,900 --> 00:53:46,500
-Rationnel beaucoup selon tous les formes syntaxiques préférables.
+Très rationnel selon toutes les formes syntaxiques préférables.
 
 458
 00:53:46,600 --> 00:53:52,900
@@ -1836,15 +1836,15 @@ dit ce qui était un de mes amis.
 
 460
 00:54:01,600 --> 00:54:08,200
-Est-ce que tu sens la fente de couleur? (couleur-fente)
+Est-ce que tu sens la couleur du schisme ?
 
 461
 00:54:08,300 --> 00:54:15,500
-Rationnel beaucoup selon tous les formes syntaxiques préférables.
+Très rationnel selon toutes les formes syntaxiques préférables.
 
 462
 00:54:15,600 --> 00:54:21,900
-« Je suis tout à fait le norme. »
+« Je suis tout à fait la norme. »
 
 463
 00:54:22,000 --> 00:54:30,200
@@ -1852,11 +1852,11 @@ dit ce qui était un de mes amis.
 
 464
 00:54:44,700 --> 00:54:51,100
-Est-ce que tu sens la fente de couleur?
+Est-ce que tu sens la couleur du schisme ?
 
 465
 00:54:51,200 --> 00:54:58,900
-Rationnel beaucoup selon tous les formes syntaxiques préférables.
+Très rationnel selon toutes les formes syntaxiques préférables.
 
 466
 00:54:59,000 --> 00:55:05,100
@@ -1868,11 +1868,11 @@ Je dis « c'est ma langue. »
 
 468
 00:55:13,500 --> 00:55:19,900
-Est-ce que tu sens la fente de couleur?
+Est-ce que tu sens la couleur du schisme ?
 
 469
 00:55:20,000 --> 00:55:27,600
-Rationnel beaucoup selon tous les formes syntaxiques préférables.
+Très rationnel selon toutes les formes syntaxiques préférables.
 
 470
 00:55:27,700 --> 00:55:33,800
@@ -1884,11 +1884,11 @@ Je dis « tu m'en expulses. »
 
 472
 00:55:42,300 --> 00:55:48,900
-Est-ce que tu sens la fente de couleur? (couleur-fente)
+Est-ce que tu sens la couleur du schisme ?
 
 473
 00:55:49,000 --> 00:55:56,400
-Rationnel beaucoup selon tous les formes syntaxiques préférables.
+Très rationnel selon toutes les formes syntaxiques préférables.
 
 474
 00:55:56,500 --> 00:56:02,600
@@ -1900,15 +1900,15 @@ Je dis « adieu à toi! »
 
 476
 00:56:25,400 --> 00:56:31,800
-Est-ce que tu sens la fente de couleur?
+Est-ce que tu sens la couleur du schisme ?
 
 477
 00:56:31,900 --> 00:56:39,600
-Rationnel beaucoup selon tous les formes syntaxiques préférables.
+Très rationnel selon toutes les formes syntaxiques préférables.
 
 478
 00:56:39,700 --> 00:56:45,900
-S'il y a un pont sur la fente de couleur,
+S'il y a un pont sur le schisme de cette couleur ,
 
 479
 00:56:46,000 --> 00:56:58,800
@@ -1940,7 +1940,7 @@ Tous les rôles sont prononcés par Guskant,
 
 486
 00:57:37,000 --> 00:57:45,500
-mais je veux que les rôles sauf Bripre ou Mankant soient prononcés par d'autres.
+mais je veux que les rôles, sauf Bripre ou Mankant, soient prononcés par d'autres.
 
 487
 00:57:45,600 --> 00:57:59,600
@@ -1948,7 +1948,7 @@ Choisissez un des rôles, enregistrez le rôle à votre voix, et envoyez-le à B
 
 488
 00:57:59,700 --> 00:58:06,500
-Je remplacera la partie pertinente du film par votre voix.
+Je remplacerait la partie pertinente du film par votre voix.
 
 489
 00:58:06,600 --> 00:58:20,100
@@ -1956,7 +1956,7 @@ Je veux, mais je n'en attends pas, que les rôles des utilisateurs du #lojban IR
 
 490
 00:58:20,200 --> 00:58:32,900
-Quand tous les rôles sauf Bripre ou Mankant sont prononcés par un autre que Guskant, cette séance du film sera finie.
+Quand tous les rôles sauf Bripre ou Mankant seront prononcés par un autre que Guskant, cette séance du film sera finie.
 
 491
 00:58:33,200 --> 00:58:35,600
