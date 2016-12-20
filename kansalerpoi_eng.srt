@@ -116,7 +116,7 @@ It teaches La Bangu to beginners.
 
 30
 00:02:47,100 --> 00:02:57,000
-Conflicts with CLL Lojban that break past usage: Here are the differences of modern dialects of Lojban from the language described in CLL. These conflict with what was described in CLL.
+Conflicts with CLL (official book) Lojban that break past usage: Here are the differences of modern dialects of Lojban from the language described in CLL. These conflict with what was described in CLL.
 
 31
 00:02:57,100 --> 00:03:01,100
@@ -184,7 +184,7 @@ For example, "zo'oi `ul`uli" ("`" is a sign for a glottal stop in Hawaiian langu
 
 47
 00:04:39,000 --> 00:04:51,800
-Therefore, the parts of speech ZOhOI and MEhOI conflict with the concept of neutrality described in the Section 1.1 of the Complete Lojban Language (book).
+Therefore, the parts of speech ZOhOI and MEhOI conflict with the concept of neutrality described in the Section 1.1 of the Complete Lojban Language (official book).
 
 48
 00:04:55,500 --> 00:04:58,900
@@ -952,11 +952,11 @@ NU/NOI is extremely common
 
 239
 00:28:31,700 --> 00:28:44,600
-and I fear a large amount of text would be broken by changing the semantics of "i" after abstractions.
+and I fear a large amount of text would be broken by changing the semantics of "i" after abstractions [NU-structure].
 
 240
 00:28:44,700 --> 00:28:48,200
-Changing the semantics of "i" after abstractions would be disastrous, which is why you'd need to explicitly use "tu'e".
+Changing the semantics of "i" after abstractions [NU-structure] would be disastrous, which is why you'd need to explicitly use "tu'e".
 
 241
 00:28:48,300 --> 00:29:02,800
@@ -1908,11 +1908,11 @@ Much rational according to every preferable syntactic form.
 
 478
 00:56:39,700 --> 00:56:45,900
-If there is a bridge across the color fissure,
+If there were a bridge across the color fissure,
 
 479
 00:56:46,000 --> 00:56:58,800
-then you'll be again a friend of mine.
+then you would be again a friend of mine.
 
 480
 00:56:58,900 --> 00:57:09,500

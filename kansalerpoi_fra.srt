@@ -116,7 +116,7 @@ Il enseigne La Bangu aux débutants.
 
 30
 00:02:47,100 --> 00:02:57,000
-Elle a des conflits avec le lojban du CLL. Voici les différences entre les dialectes modernes du lojban et la langue décrite sur CLL.
+Elle a des conflits avec le lojban du CLL (livre officiel). Voici les différences entre les dialectes modernes du lojban et la langue décrite sur CLL.
 
 31
 00:02:57,100 --> 00:03:01,100
@@ -184,7 +184,7 @@ Par exemple, « zo'oi `uli`uli » (« ` » est le signe d'un coup de glotte dans
 
 47
 00:04:39,000 --> 00:04:51,800
-Les natures syntaxiques ZOhOI et MEhOI contreviennent donc à l'idée de neutralité décrite dans la section 1.1 du livre The Complete Lojban Language.
+Les natures syntaxiques ZOhOI et MEhOI contreviennent donc à l'idée de neutralité décrite dans la section 1.1 du livre The Complete Lojban Language (livre officiel).
 
 48
 00:04:55,500 --> 00:04:58,900
@@ -248,7 +248,7 @@ Bravo, la variété!
 
 63
 00:06:19,500 --> 00:06:28,900
-Puisque le mot « jo'au » fait partie de la grammaire, il n'y a aucune raison pour qu'il n'y a qu'une seule grammaire lojbannaise.
+Quand le mot « jo'au » fait partie de la grammaire, il n'y a aucune raison pour qu'il n'y a qu'une seule grammaire lojbannaise.
 
 64
 00:06:36,800 --> 00:07:03,700
@@ -332,7 +332,7 @@ signifie un nombre,
 
 84
 00:10:09,100 --> 00:10:18,400
-et la signification de « pi'e » indique seulement que le mot « pi'e » coupe une suite de chiffres en deux parties.
+et il dépend seulement de la signification de « pi'e » que le mot « pi'e » coupe une suite de chiffres en deux parties.
 
 85
 00:10:24,300 --> 00:10:30,500
@@ -452,7 +452,7 @@ Exactement, la nature syntaxique SA ne s'aperçoit pas que le mot-outil « pa »
 
 114
 00:13:50,600 --> 00:14:02,100
-Par exemple, « do pa sanji tu sa ba sanji tu (toi, un apercevant, là-bas,  -pardon, tu apercevras celà là-bas.) »
+Par exemple, « do pa sanji tu sa ba sanji tu (toi, un apercevant, là-bas —pardon, tu apercevras celà là-bas.) »
 
 115
 00:14:02,200 --> 00:14:04,700
@@ -776,11 +776,11 @@ Deux versions sont approuvées.
 
 195
 00:23:28,100 --> 00:23:35,300
-Ah. Comment sont distingués les tanru (une suite d'unités qui peuvent être un prédicat) et les bridi (relation de prédicat; le parlant confond cela avec une formule) ?
+Ah. Comment sont distingués les tanru (une suite d'unités qui peuvent être un prédicat) et les bridi (relation de prédicat; le parlant confond cela avec une formule)?
 
 196
 00:23:35,400 --> 00:23:43,500
-« gi je cu broda gi cu brode (fait_1 and fait_2) »
+« gi je cu broda gi cu brode (fait_1 et fait_2) »
 
 197
 00:23:43,600 --> 00:23:53,000
@@ -952,11 +952,11 @@ NU/NOI est extrêmement commun,
 
 239
 00:28:31,700 --> 00:28:44,600
-et j'ai peur que beaucoup de textes soient cassés par le changement sémantique de « i » posé après des abstractions.
+et j'ai peur que beaucoup de textes soient cassés par le changement sémantique de « i » posé après la structure NU.
 
 240
 00:28:44,700 --> 00:28:48,200
-Le changement sémantique de « i » qui suit des abstractions doit être désastreux, c'est pourquoi tu as besoin d'utiliser explicitement le mot « tu'e ».
+Le changement sémantique de « i » qui suit la structure NU doit être désastreux, c'est pourquoi tu as besoin d'utiliser explicitement le mot « tu'e ».
 
 241
 00:28:48,300 --> 00:29:02,800
@@ -1372,7 +1372,7 @@ Pour le moment, je permet que la nature syntaxique SE ne soit pas encore remplac
 
 344
 00:41:31,100 --> 00:41:39,000
-Mais dans un futur lointain, je veux faire que les natures syntaxiques SE et FA fusionneent en une seule.
+Mais dans un futur lointain, je veux faire que les natures syntaxiques SE et FA fusionnent en une seule.
 
 345
 00:41:39,100 --> 00:41:43,500
@@ -1416,7 +1416,7 @@ Il est apparemment utile à première vue,
 
 355
 00:42:22,600 --> 00:42:27,800
-mais cette manière est inconsistente, discordante avec l'unification d'étiquettes.
+mais cette manière est inconsistante, discordante avec la structure d'étiquettes.
 
 356
 00:42:31,000 --> 00:42:35,900
@@ -1436,7 +1436,7 @@ et « le ti pa sfubu (un plongeur de ceci) ».
 
 360
 00:42:57,400 --> 00:43:04,000
-De plus, sa propriété est différente de celle de la nature syntaxique NU lorsqu'une formule atomique est inclus.
+De plus, sa propriété est différente de celle de la nature syntaxique NU dont la structure inclut une formule atomique.
 
 361
 00:43:04,100 --> 00:43:12,400
@@ -1452,7 +1452,7 @@ D'un côté, la structure COI ressemble à la structure LE,
 
 364
 00:43:26,200 --> 00:43:32,800
-et la structure TO ressemble à la structure LU.
+et la nature syntaxique TO a la même structure que la nature syntaxique LU.
 
 365
 00:43:32,900 --> 00:43:41,300
@@ -1524,7 +1524,7 @@ Il me semble qu'ils n'ont pas peur que leurs dialectes cessent d'être de la lan
 
 382
 00:45:29,800 --> 00:45:32,000
-Comment ?
+Pourquoi?
 
 383
 00:45:32,100 --> 00:45:38,000
@@ -1596,7 +1596,7 @@ Pas du tout.
 
 400
 00:47:14,800 --> 00:47:21,500
-« ti ge ta mo gi tu mo (ceci fait cela comment, est ceci fait cela là-bas comment?) »
+« ti ge ta mo gi tu mo (ceci fait cela comment, et ceci fait cela là-bas comment?) »
 
 401
 00:47:21,600 --> 00:47:23,200
@@ -1648,7 +1648,7 @@ mais au profit de quoi?
 
 413
 00:48:20,100 --> 00:48:27,300
-Qu'est-ce qu'il signifie, par exemple, « mi je ce'e do » ?
+Qu'est-ce qu'il signifie, par exemple, « mi je ce'e do »?
 
 414
 00:48:27,500 --> 00:48:33,200
@@ -1804,7 +1804,7 @@ Chanté en dialect Zantufa.
 
 452
 00:53:04,100 --> 00:53:10,200
-Est-ce que tu sens la couleur du schisme ?
+Est-ce que tu sens le schisme coloriste?
 
 453
 00:53:10,300 --> 00:53:17,800
@@ -1820,7 +1820,7 @@ dit ce qui était un de mes amis.
 
 456
 00:53:32,700 --> 00:53:38,800
-Est-ce que tu sens la couleur du schisme?
+Est-ce que tu sens le schisme coloriste?
 
 457
 00:53:38,900 --> 00:53:46,500
@@ -1836,7 +1836,7 @@ dit ce qui était un de mes amis.
 
 460
 00:54:01,600 --> 00:54:08,200
-Est-ce que tu sens la couleur du schisme ?
+Est-ce que tu sens le schisme coloriste (schisme coloriste)?
 
 461
 00:54:08,300 --> 00:54:15,500
@@ -1852,7 +1852,7 @@ dit ce qui était un de mes amis.
 
 464
 00:54:44,700 --> 00:54:51,100
-Est-ce que tu sens la couleur du schisme ?
+Est-ce que tu sens le schisme coloriste?
 
 465
 00:54:51,200 --> 00:54:58,900
@@ -1868,7 +1868,7 @@ Je dis « c'est ma langue. »
 
 468
 00:55:13,500 --> 00:55:19,900
-Est-ce que tu sens la couleur du schisme ?
+Est-ce que tu sens le schisme coloriste?
 
 469
 00:55:20,000 --> 00:55:27,600
@@ -1884,7 +1884,7 @@ Je dis « tu m'en expulses. »
 
 472
 00:55:42,300 --> 00:55:48,900
-Est-ce que tu sens la couleur du schisme ?
+Est-ce que tu sens le schisme coloriste (schisme coloriste)?
 
 473
 00:55:49,000 --> 00:55:56,400
@@ -1900,7 +1900,7 @@ Je dis « adieu à toi! »
 
 476
 00:56:25,400 --> 00:56:31,800
-Est-ce que tu sens la couleur du schisme ?
+Est-ce que tu sens le schisme coloriste?
 
 477
 00:56:31,900 --> 00:56:39,600
@@ -1908,11 +1908,11 @@ Très rationnel selon toutes les formes syntaxiques préférables.
 
 478
 00:56:39,700 --> 00:56:45,900
-S'il y a un pont sur le schisme de cette couleur ,
+S'il y avait un pont sur le schisme coloriste,
 
 479
 00:56:46,000 --> 00:56:58,800
-tu seras encore un de mes amis.
+tu serais encore un de mes amis.
 
 480
 00:56:58,900 --> 00:57:09,500
