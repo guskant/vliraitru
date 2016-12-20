@@ -248,7 +248,7 @@ Bravo, la variété!
 
 63
 00:06:19,500 --> 00:06:28,900
-Quand le mot « jo'au » fait partie de la grammaire, il n'y a aucune raison pour qu'il n'y a qu'une seule grammaire lojbannaise.
+Quand le mot « jo'au » (indicateur de dialect) fait partie de la grammaire, il n'y a aucune raison pour qu'il n'y a qu'une seule grammaire lojbannaise.
 
 64
 00:06:36,800 --> 00:07:03,700

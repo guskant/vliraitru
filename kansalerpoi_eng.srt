@@ -248,7 +248,7 @@ Nice diversity!
 
 63
 00:06:19,500 --> 00:06:28,900
-When the function word "jo'au" is in the grammar, there is no reason why there should be only one Lojban grammar.
+When the function word "jo'au" (dialect indicator) is in the grammar, there is no reason why there should be only one Lojban grammar.
 
 64
 00:06:36,800 --> 00:07:03,700
