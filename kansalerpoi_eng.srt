@@ -180,7 +180,7 @@ There are therefore some Polynesian words that the parts of speech ZOhOI and MEh
 
 46
 00:04:27,600 --> 00:04:34,500
-For example, "zo'oi `ul`uli" ("`" is a sign for a glottal stop in Hawaiian language, which is transcripted into a period "." in ASCII notation of Lojban language.)
+For example, "zo'oi `uli`uli" ("`" is a sign for a glottal stop in Hawaiian language, which is transcripted into a period "." in ASCII notation of Lojban language.)
 
 47
 00:04:39,000 --> 00:04:51,800
