@@ -1760,7 +1760,7 @@ Anyone may opine that what is Lojban language, and what is not,
 
 441
 00:51:37,600 --> 00:51:41,500
-but the following matter is really problem:
+but the following matter is really a problem:
 
 442
 00:51:41,600 --> 00:51:55,200
