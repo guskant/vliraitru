@@ -45,7 +45,7 @@ _(or send money to Gusni Kantu via Paypal)_
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="U2TRKEAZEF5HS">
 <table>
-<tr><td><input type="hidden" name="on0" value="i cuxna ma poi me la'e di'e">i cuxna ma poi me la'e di'e<br />_(Which amount do you choose?)_</td></tr><tr><td><select name="os0">
+<tr><td><input type="hidden" name="on0" value="i cuxna ma poi me la'e di'e">i cuxna ma poi me la'e di'e<br /><em>(Which amount do you choose?)</em></td></tr><tr><td><select name="os0">
 	<option value="lo jdima xi pa:">lo jdima xi pa: $5.00 USD</option>
 	<option value="lo jdima xi re:">lo jdima xi re: $10.00 USD</option>
 	<option value="lo jdima xi ci:">lo jdima xi ci: $20.00 USD</option>
