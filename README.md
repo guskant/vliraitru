@@ -27,6 +27,8 @@ _(You can obtain the book in EPUB3 with Media Overlays (93.6 MB) at the place be
 - i [la gugl.pleis](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ) (to ca ku ke po'o la android cu vlipa tu'a lo cukta sance toi)  
   _([Google Play](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ) (Only Android can play the book sound for now.))_
 
+tu'u
+
 ## ni'o jdini sidju _(Financial support)_
 i te zu'e lo nu sidju la guskant lo nu finti lo larcu zo'u ko e'u te vecnu  
 _(In order to suport Guskant for artworks, buy)_
