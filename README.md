@@ -1,58 +1,44 @@
 # lo vliraitru _(The Dictator)_
-i ti noi stuzi cu srana [la'au lo vliraitru li'u noi skina](https://vimeo.com/190637628)
-
+i ti noi stuzi cu srana [la'au lo vliraitru li'u noi skina](https://vimeo.com/190637628)  
 _(This place is related to [the film The Dictator.](https://vimeo.com/190637628))_
 
 
 ## ni'o kansa lerpoi _(Subtitles)_
-i e'u do ji'a fanva lo kansa lerpoi lo do bangu
-
+i e'u do ji'a fanva lo kansa lerpoi lo do bangu  
 _(Help translating subtitles into your language!)_
 
-i ko finti [lo syryty datnyvei](https://github.com/guskant/vliraitru) be lo xe fanva be fu do
-
+i ko finti [lo syryty datnyvei](https://github.com/guskant/vliraitru) be lo xe fanva be fu do  
 _(Create an [srt file](https://github.com/guskant/vliraitru) for your translation,)_
 
-gi'e benji la .pul.rikuuest. a lo se samymri be fi mi
-
-_(and send a pull-request or an email message to me.)_
-
+gi'e benji la .pul.rikuuest. a lo se samymri be fi mi  
+_(and send a pull-request or an email message to me.)_  
 [gusni.kantu@gmail.com](mailto:gusni.kantu@gmail.com)
 
-i ki'e ba'a sidju
-
+i ki'e ba'a sidju  
 _(Thank you in advance!)_
 
 ## ni'o cukta _(Book)_
-i e'u cpacu lo cukta ne la .epub. xi ci poi kansa lo sance (to baitni li 6 gei 93.6) bu'u pa la'e di'e i tu'e
-
+i e'u cpacu lo cukta ne la .epub. xi ci poi kansa lo sance (to baitni li 6 gei 93.6) bu'u pa la'e di'e i tu'e  
 _(You can obtain the book in EPUB3 with Media Overlays (93.6 MB) at the place below.)_
 
-- i [ti noi stuzi](./vliraitru_sance.epub) (to e'u pilno lo samtci poi kakne tu'a la mediias.ovyleis ku'o i mu'a la'o zoi [Menestrello](https://www.readbeyond.it/menestrello/) zoi la'o zoi [Readium](http://readium.org/) zoi li'o toi)
-
+- i [ti noi stuzi](./vliraitru_sance.epub) (to e'u pilno lo samtci poi kakne tu'a la mediias.ovyleis ku'o i mu'a la'o zoi [Menestrello](https://www.readbeyond.it/menestrello/) zoi la'o zoi [Readium](http://readium.org/) zoi li'o toi)  
   _([In this place](./vliraitru_sance.epub) (Use an application that can play Media Overlays, like [Menestrello](https://www.readbeyond.it/menestrello/) or [Readium](http://readium.org/)))_
 
-- i [la gugl.pleis](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ) (to ca ku ke po'o la android cu vlipa tu'a lo cukta sance toi)
-
+- i [la gugl.pleis](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ) (to ca ku ke po'o la android cu vlipa tu'a lo cukta sance toi)  
   _([Google Play](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ) (Only Android can play the book sound for now.))_
 
 tu'u
 
 ## ni'o jdini sidju _(Financial support)_
-i te zu'e lo nu sidju la guskant lo nu finti lo larcu zo'u ko e'u te vecnu
-
+i te zu'e lo nu sidju la guskant lo nu finti lo larcu zo'u ko e'u te vecnu  
 _(In order to suport Guskant for artworks, buy)_
-
-- [lo cukta poi claxu lo sance ku'o](https://play.google.com/store/books/details/la_guskant_lo_vliraitru?id=XvInDwAAQBAJ) (to baitni li 6 gei 3.3 gi'e se jdima lo rupnu be li 250 bei la ien toi) a
-
+- [lo cukta poi claxu lo sance ku'o](https://play.google.com/store/books/details/la_guskant_lo_vliraitru?id=XvInDwAAQBAJ) (to baitni li 6 gei 3.3 gi'e se jdima lo rupnu be li 250 bei la ien toi) a  
    _([the book without sound](https://play.google.com/store/books/details/la_guskant_lo_vliraitru?id=XvInDwAAQBAJ) (3.3 MB, JPY 250) and/or)_
 
-- [lo zgike datnyvei](https://play.google.com/store/music/artist/guskant?id=Ap2qfydsuekeeqjtvl7bxljcsmq)
-
+- [lo zgike datnyvei](https://play.google.com/store/music/artist/guskant?id=Ap2qfydsuekeeqjtvl7bxljcsmq)  
   _([musical pieces](https://play.google.com/store/music/artist/guskant?id=Ap2qfydsuekeeqjtvl7bxljcsmq))_
 
-gi'a benji lo jdini la gusni kantu fu la peipal
-
+gi'a benji lo jdini la gusni kantu fu la peipal  
 _(or send money to Gusni Kantu via Paypal)_
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
