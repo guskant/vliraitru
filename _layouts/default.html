@@ -17,7 +17,6 @@
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
             <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
           {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>viska la gitub</a>
         </div>
       </div>
     </header>
@@ -27,8 +26,13 @@
         {{ content }}
       </div>
       <footer>
-        <div>
+        <div style="line-height: 120%; font-size: 0.8em;">
+          <div>
           <time datetime="{{ site.time | date_to_xmlschema }}" itemprop="datePublished">{{ site.time | date: "%Y-%m-%d %T %Z" }}</time>
+          </div>
+          <div>
+          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>viska la gitub</a>
+          </div>
         </div>
       </footer>
     </div>
