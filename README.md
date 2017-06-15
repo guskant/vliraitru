@@ -12,7 +12,7 @@ _(Create an [srt file](https://github.com/guskant/vliraitru) for your translatio
 
 gi'e benji la .pul.rikuuest. a lo se samymri be fi mi  
 _(and send a pull-request or an email message to me.)_  
-gusni.kantu@gmail.com
+[gusni.kantu@gmail.com](mailto:gusni.kantu@gmail.com)
 
 i ki'e ba'a sidju  
 _(Thank you in advance!)_
