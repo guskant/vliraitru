@@ -3,7 +3,7 @@ i ti noi stuzi cu srana [la'au lo vliraitru li'u noi skina](https://vimeo.com/19
 _(This place is related to [the film The Dictator.](https://vimeo.com/190637628))_
 
 
-## <a name="lerpoi">ni'o kansa lerpoi _(Subtitles)_</a>
+## ni'o kansa lerpoi _(Subtitles)_
 i e'u do ji'a fanva lo kansa lerpoi lo do bangu  
 _(Help translating subtitles into your language!)_
 
@@ -17,7 +17,7 @@ gusni.kantu@gmail.com
 i ki'e ba'a sidju  
 _(Thank you in advance!)_
 
-## <a name="cukta">ni'o cukta _(Book)_</a>
+## ni'o cukta _(Book)_
 i e'u cpacu lo cukta ne la .epub. xi ci poi kansa lo sance (to baitni li 6 gei 93.6) bu'u pa la'e di'e i tu'e  
 _(You can obtain the book in EPUB3 with Media Overlays (93.6 MB) at the place below.)_
 
@@ -26,7 +26,7 @@ _(You can obtain the book in EPUB3 with Media Overlays (93.6 MB) at the place be
 - i [la gugl.pleis (to ca ku ke po'o la android cu vlipa tu'a lo cukta sance toi)](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ)  
   _([Google Play (Only Android can play the book sound for now.)](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ))_
 
-## <a name="sidju">jdini sidju _(Financial support)_</a>
+## jdini sidju _(Financial support)_
 i te zu'e lo nu sidju la guskant lo nu finti lo larcu zo'u ko e'u te vecnu  
 _(In order to suport Guskant for artworks, buy)_
 - [lo cukta poi claxu lo sance ku'o](https://play.google.com/store/books/details/la_guskant_lo_vliraitru?id=XvInDwAAQBAJ) (to baitni li 6 gei 3.3 gi'e se jdima lo rupnu be li 250 bei la ien toi) a  
