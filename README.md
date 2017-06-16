@@ -31,8 +31,8 @@ tu'u
 ### i la .deizis. _(DAISY Digital Talking Book)_
 i e'u cpacu lo cukta ne la .deizis. (to baitni li 6 gei 88.8) la'e di'e  
 _(You can obtain the book in the format of DAISY Digital Talking Book (88.8 MB) below.)_
-- i [la'au lo vliraitru li'u ne la .deizis. xi re pi'e no re](./vliraitru_DAISY2.02.zip)
-- i [la'au lo vliraitru li'u ne la .deizis. xi ci](./vliraitru_DAISY3.zip)
+- i [la'au lo vliraitru li'u ne la .deizis. xi re pi'e no re _(The Dictator in DAISY 2.02 format)_](./vliraitru_DAISY2.02.zip)
+- i [la'au lo vliraitru li'u ne la .deizis. xi ci _(The Dictator in DAISY 3 format)_](./vliraitru_DAISY3.zip)
 
 i la'e di'e so'o mei lo so'i samtci be lo nu tirna lo cukta  
 _(Here are some of many applications to hear the book.)_
