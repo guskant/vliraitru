@@ -18,16 +18,34 @@ i ki'e ba'a sidju
 _(Thank you in advance!)_
 
 ## ni'o cukta _(Book)_
+### i la .epub. xi ci poi kansa lo sance _(EPUB3 with Media Overlays)_
 i e'u cpacu lo cukta ne la .epub. xi ci poi kansa lo sance (to baitni li 6 gei 93.6) bu'u pa la'e di'e i tu'e  
 _(You can obtain the book in EPUB3 with Media Overlays (93.6 MB) at the place below.)_
-
 - i [ti noi stuzi](./vliraitru_sance.epub) (to e'u pilno lo samtci poi kakne tu'a la mediias.ovyleis ku'o i mu'a la'o zoi [Menestrello](https://www.readbeyond.it/menestrello/) zoi la'o zoi [Readium](http://readium.org/) zoi li'o toi)  
   _([In this place](./vliraitru_sance.epub) (Use an application that can play Media Overlays, like [Menestrello](https://www.readbeyond.it/menestrello/) or [Readium](http://readium.org/)))_
-
 - i [la gugl.pleis](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ) (to ca ku ke po'o la android cu vlipa tu'a lo cukta sance toi)  
   _([Google Play](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ) (Only Android can play the book sound for now.))_
 
 tu'u
+
+### i la .deizis. _(DAISY Digital Talking Book)_
+i e'u cpacu lo cukta ne la .deizis. (to baitni li 6 gei 88.8) la'e di'e  
+_(You can obtain the book in the format of DAISY Digital Talking Book (88.8 MB) below.)_
+- i [la'au lo vliraitru li'u ne la .deizis. xi re pi'e no re](./vliraitru_DAISY2.02.zip)
+- i [la'au lo vliraitru li'u ne la .deizis. xi ci](./vliraitru_DAISY3.zip)
+
+i la'e di'e so'o mei lo so'i samtci be lo nu tirna lo cukta  
+_(Here are some of many applications to hear the book.)_
+- i la'o zoi [Kota Daisy Reader](https://play.google.com/store/apps/details?id=com.daisy.reader) zoi  
+  i mi ta'e pilno la'e di'u  
+  _(I usually use it.)_
+- i la'o zoi [DAISY Book Reader](https://play.google.com/store/apps/details?id=com.redzoc.ramees.daisyreader) zoi  
+  i ku'i oi venynoi i [da ji'a se jdima lo za'u no rupnu](https://play.google.com/store/apps/details?id=com.redzoc.ramees.pro.daisyreader)  
+  _(The advertisement is annoying. [There is also a paid version](https://play.google.com/store/apps/details?id=com.redzoc.ramees.pro.daisyreader).)_
+- i la'e di'e liste lo samtci be lo nu tirna lo cukta  
+  _(Lists of applications to hear the book are below.)_
+ - i [kansa tutci samtci _(Mobile Applications)_](http://www.daisy.org/tools/mobile-applications)
+ - i [samtci _(Software Playback Tools)_](http://www.daisy.org/tools/splayback)
 
 ## ni'o jdini sidju _(Financial support)_
 i te zu'e lo nu sidju la guskant lo nu finti lo larcu zo'u ko e'u te vecnu  
