@@ -44,8 +44,8 @@ _(Here are some of many applications to hear the book.)_
   _(The advertisement is annoying. [There is also a paid version](https://play.google.com/store/apps/details?id=com.redzoc.ramees.pro.daisyreader).)_
 - i la'e di'e liste lo samtci be lo nu tirna lo cukta  
   _(Lists of applications to hear the book are below.)_
- - i [kansa tutci samtci _(Mobile Applications)_](http://www.daisy.org/tools/mobile-applications)
- - i [samtci _(Software Playback Tools)_](http://www.daisy.org/tools/splayback)
+  - i [kansa tutci samtci _(Mobile Applications)_](http://www.daisy.org/tools/mobile-applications)
+  - i [samtci _(Software Playback Tools)_](http://www.daisy.org/tools/splayback)
 
 ## ni'o jdini sidju _(Financial support)_
 i te zu'e lo nu sidju la guskant lo nu finti lo larcu zo'u ko e'u te vecnu  
