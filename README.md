@@ -21,10 +21,12 @@ _(Thank you in advance!)_
 ### i la .epub. xi ci poi kansa lo sance _(EPUB3 with Media Overlays)_
 i e'u cpacu lo cukta ne la .epub. xi ci poi kansa lo sance (to baitni li 6 gei 93.6) bu'u pa la'e di'e i tu'e  
 _(You can obtain the book in EPUB3 with Media Overlays (93.6 MB) at the place below.)_
-- i [ti noi stuzi](./vliraitru_sance.epub) (to e'u pilno lo samtci poi kakne tu'a la mediias.ovyleis ku'o i mu'a la'o zoi [Menestrello](https://www.readbeyond.it/menestrello/) zoi la'o zoi [Readium](http://readium.org/) zoi li'o toi)  
-  _([In this place](./vliraitru_sance.epub) (Use an application that can play Media Overlays, like [Menestrello](https://www.readbeyond.it/menestrello/) or [Readium](http://readium.org/)))_
-- i [la gugl.pleis](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ) (to ca ku ke po'o la android cu vlipa tu'a lo cukta sance toi)  
-  _([Google Play](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ) (Only Android can play the book sound for now.))_
+- i [ti noi stuzi _(In this place)_](./vliraitru_sance.epub)  
+  i e'u pilno lo samtci poi kakne tu'a la mediias.ovyleis ku'o i mu'a la'o zoi [Menestrello](https://www.readbeyond.it/menestrello/) zoi la'o zoi [Readium](http://readium.org/) zoi li'o  
+  (Use an application that can play Media Overlays, like [Menestrello](https://www.readbeyond.it/menestrello/) or [Readium](http://readium.org/))_
+- i [la gugl.pleis _(Google Play)_](https://play.google.com/store/books/details/la_guskant_lo_vliraitru_to_sance_kansa_toi?id=VfQnDwAAQBAJ)
+  i ri zo'u ca ku ke po'o la android cu vlipa tu'a lo cukta sance  
+  _(As for Google Play, only Android can play the book sound for now.)_
 
 tu'u
 
