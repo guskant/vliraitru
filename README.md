@@ -20,7 +20,7 @@ _(Thank you in advance!)_
 ## ni'o cukta _(Book)_
 ### i la .epub. xi ci poi kansa lo sance _(EPUB3 with Media Overlays)_
 i e'u cpacu lo cukta ne la .epub. xi ci poi kansa lo sance (to baitni li 6 gei 93.6) bu'u pa la'e di'e (to lo sance jo'u lo ckupaupau liste gau xauzma de'i li 2017-06-19 toi) i tu'e  
-_(You can obtain the book in EPUB3 with Media Overlays (93.6 MB) at the place below.)_
+_(You can obtain the book in EPUB3 with Media Overlays (93.6 MB) at the place below (The table of contents and sound were ameliorated 2017-06-19).)_
 - i [ti noi stuzi _(In this place)_](./vliraitru_sance.epub)  
   i e'u pilno lo samtci poi kakne tu'a la mediias.ovyleis ku'o i mu'a la'o zoi [Menestrello](https://www.readbeyond.it/menestrello/) zoi la'o zoi [Readium](http://readium.org/) zoi li'o  
   _(Use an application that can play Media Overlays, like [Menestrello](https://www.readbeyond.it/menestrello/) or [Readium](http://readium.org/))_
