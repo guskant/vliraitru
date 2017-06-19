@@ -52,11 +52,10 @@ _(Here are some of many applications to hear the book.)_
 ## ni'o jdini sidju _(Financial support)_
 i te zu'e lo nu sidju la guskant lo nu finti lo larcu zo'u ko e'u te vecnu  
 _(In order to suport Guskant for artworks, buy)_
-- [lo cukta poi claxu lo sance ku'o](https://play.google.com/store/books/details/la_guskant_lo_vliraitru?id=XvInDwAAQBAJ) (to baitni li 6 gei 3.3 gi'e se jdima lo rupnu be li 250 bei la ien toi) a  
-   _([the book without sound](https://play.google.com/store/books/details/la_guskant_lo_vliraitru?id=XvInDwAAQBAJ) (3.3 MB, JPY 250) and/or)_
-
-- [lo zgike datnyvei](https://play.google.com/store/music/artist/guskant?id=Ap2qfydsuekeeqjtvl7bxljcsmq)  
-  _([musical pieces](https://play.google.com/store/music/artist/guskant?id=Ap2qfydsuekeeqjtvl7bxljcsmq))_
+- [lo cukta poi claxu lo sance ku'o _(the book without sound)_](https://play.google.com/store/books/details/la_guskant_lo_vliraitru?id=XvInDwAAQBAJ)  
+  (to baitni li 6 gei 3.3 gi'e se jdima lo rupnu be li 250 bei la ien toi) _(3.3 MB, JPY 250)_  
+  a _(and/or)_
+- [lo zgike datnyvei _(musical pieces)_](https://play.google.com/store/music/artist/guskant?id=Ap2qfydsuekeeqjtvl7bxljcsmq)
 
 gi'a benji lo jdini la gusni kantu fu la peipal  
 _(or send money to Gusni Kantu via Paypal)_
