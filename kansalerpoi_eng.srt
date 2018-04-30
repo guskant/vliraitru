@@ -8,7 +8,7 @@ The dictator
 
 3
 00:00:11,000 --> 00:00:24,400
-This is a nonfictional work. Any resemblance to actual organizations or persons, living or dead, is purely natural.
+This is a nonfictional work. Any resemblance to actual organizations or persons, living or dead, is purely coincidental.
 
 4
 00:00:25,900 --> 00:00:30,800
@@ -80,7 +80,7 @@ Oh no, new grammar! Our official grammar is great for me.
 
 21
 00:01:49,700 --> 00:01:53,400
-Agree, no need of modification.
+Agree, no need for modification.
 
 22
 00:01:53,500 --> 00:02:02,000
@@ -156,7 +156,7 @@ You see that implies that Polynesians must be out of Lojban country.
 
 40
 00:03:48,200 --> 00:03:52,400
-It's first time I tell you: my grand mother is a Polynesian.
+It's first time I tell you: my grandmother is a Polynesian.
 
 41
 00:03:54,100 --> 00:03:56,000
@@ -180,7 +180,7 @@ There are therefore some Polynesian words that the parts of speech ZOhOI and MEh
 
 46
 00:04:27,600 --> 00:04:34,500
-For example, "zo'oi `uli`uli" ("`" is a sign for a glottal stop in Hawaiian language, which is transcripted into a period "." in ASCII notation of Lojban language.)
+For example, "zo'oi `uli`uli" ("`" is a sign for a glottal stop in the Hawaiian language, which is transcripted into a period "." in the ASCII notation of the Lojban language.)
 
 47
 00:04:39,000 --> 00:04:51,800
@@ -232,7 +232,7 @@ However, I don't want to obey the #lojban IRC grammar, which is ugly to me.
 
 59
 00:05:55,600 --> 00:06:02,400
-I want to obey another grammar beautiful to me.
+I want to obey another grammar that is beautiful to me.
 
 60
 00:06:02,500 --> 00:06:10,900
@@ -300,7 +300,7 @@ for example, "bi ny bajra (There are 8*10+n runners,...)"
 
 76
 00:09:13,900 --> 00:09:21,900
-and, for making "8" and "n" separated from each other, it is necessary to say "boi", for example,
+and, to make "8" and "n" separate from each other, it is necessary to say "boi", for example,
 
 77
 00:09:22,000 --> 00:09:30,000
@@ -688,7 +688,7 @@ Ah, I made a mistake.
 
 173
 00:21:01,100 --> 00:21:03,000
-Completed reparing.
+Completed repairing.
 
 174
 00:21:03,100 --> 00:21:08,300
@@ -700,7 +700,7 @@ Section: the grammar is concordant with study of logic.
 
 176
 00:21:15,000 --> 00:21:25,300
-According to the philosophy of Quine, a formula in the structure constructed by the part of speech NU is referencially opaque.
+According to the philosophy of Quine, a formula in the structure constructed by the part of speech NU is referentially opaque.
 
 177
 00:21:25,400 --> 00:21:34,000
@@ -740,7 +740,7 @@ The function word "i" is text's main concept.
 
 186
 00:22:30,600 --> 00:22:36,000
-The function word "i" moves the readers to th 0-th layer,
+The function word "i" moves the readers to the 0-th layer,
 
 187
 00:22:36,100 --> 00:22:41,700
@@ -808,7 +808,7 @@ learning by brute force, aha!
 
 203
 00:24:29,600 --> 00:24:33,000
-Oh no, I made again a mistake.
+Oh no, I made a mistake again.
 
 204
 00:24:38,000 --> 00:24:46,800
@@ -816,7 +816,7 @@ Oh no, I made again a mistake.
 
 205
 00:24:46,900 --> 00:24:49,900
-Completed reparing.
+Completed repairing.
 
 206
 00:24:55,400 --> 00:25:01,000
@@ -864,7 +864,7 @@ Generally, the meaning of "ui" spans over the function word "bo" or the vacancy,
 
 217
 00:26:10,500 --> 00:26:21,600
-Agree. What is taught by Gleki is not concordant with the standard scope system of free modifier of Lojban.
+Agree. What is taught by Gleki is not concordant with the standard scope system of free modifiers in Lojban.
 
 218
 00:26:21,700 --> 00:26:31,500
@@ -960,7 +960,7 @@ Changing the semantics of "i" after abstractions [NU-structure] would be disastr
 
 241
 00:28:48,300 --> 00:29:02,800
-For example, "i mi djica lo nu tu'e do klama lo mi zdani i ba bo mi'o samkei kansi'u tu'u (I want that you come to my house and then we play games together.)"
+For example, "i mi djica lo nu tu'e do klama lo mi zdani i ba bo mi'o samkei kansi'u tu'u (I want you to come to my house and then we will play games together.)"
 
 242
 00:29:04,900 --> 00:29:11,700
@@ -976,7 +976,7 @@ As for Zantufa, there is no problem.
 
 245
 00:29:24,900 --> 00:29:37,100
-"i mi djica lo nu tu'e do klama lo mi zdani i ba bo mi'o samkei kansi'u tu'u (I want that you come to my house and then we play games together.)"
+"i mi djica lo nu tu'e do klama lo mi zdani i ba bo mi'o samkei kansi'u tu'u (I want you to come to my house and then we will play games together.)"
 
 246
 00:29:41,200 --> 00:29:46,300
@@ -1004,11 +1004,11 @@ Then I suppose I'm not a big fan of zantufa, aha!
 
 252
 00:30:20,100 --> 00:30:32,000
-What a pitty! The #lojban IRC people seem to be unable to distinguish a complete formula from an atomic formula.
+What a pity! The #lojban IRC people seem to be unable to distinguish a complete formula from an atomic formula.
 
 253
 00:30:32,100 --> 00:30:39,600
-But maybe being unable to do it is not characteristic of #lojban IRC people only.
+But maybe being unable to do it is not only characteristic of #lojban IRC people.
 
 254
 00:30:39,700 --> 00:30:45,000
@@ -1076,7 +1076,7 @@ I think that the inside of NU-structure and the outside of it do not always have
 
 270
 00:32:55,800 --> 00:33:09,300
-Therefore, it seems to me insane to prevent use of afterthought connectives for signifying a truth in the universe of discourse of NU-structure.
+Therefore, it seems to me insane to prevent the use of afterthought connectives for signifying a truth in the universe of discourse of NU-structure.
 
 271
 00:33:09,800 --> 00:33:18,700
@@ -1136,7 +1136,7 @@ terminator for n-ary "gi"
 
 285
 00:34:51,000 --> 00:34:59,700
-Joy, some features of Zantufa are not much deplorable to even #lojban IRC people.
+Joy, some features of Zantufa are not very deplorable even to #lojban IRC people.
 
 286
 00:35:00,100 --> 00:35:06,200
@@ -1256,7 +1256,7 @@ I will make the part of speech SE replaced by the part of speech FA.
 
 315
 00:38:06,100 --> 00:38:10,400
-I expect the grammar will be much simple.
+I expect the grammar will be much simpler.
 
 316
 00:38:15,700 --> 00:38:22,500
@@ -1396,7 +1396,7 @@ Yes
 
 350
 00:42:01,800 --> 00:42:05,000
-What would the rafsi (combining form for the word) be even :p
+What would the rafsi (combining form for the word) even be :p
 
 351
 00:42:05,100 --> 00:42:14,000
@@ -1416,7 +1416,7 @@ it seems useful at first
 
 355
 00:42:22,600 --> 00:42:27,800
-but it's way inconsistent. conflicts with tag unification.
+but it's way inconsistent. It conflicts with tag unification.
 
 356
 00:42:31,000 --> 00:42:35,900
@@ -1636,7 +1636,7 @@ I'm not agonized by those who lack philosophy.
 
 410
 00:48:08,900 --> 00:48:11,400
-Completed reparing.
+Completed repairing.
 
 411
 00:48:13,300 --> 00:48:17,900
@@ -1704,11 +1704,11 @@ On the one hand, according to the official grammar, the part of speech GUhA span
 
 427
 00:49:50,800 --> 00:49:58,900
-for example, "ge gu'a crino gi xunre gi sinxa (it is green or red, and is signal.)"
+for example, "ge gu'a crino gi xunre gi sinxa (it is green or red, and is a signal.)"
 
 428
 00:49:59,000 --> 00:50:13,200
-By the way, The parts of speech GA and GUhA of the official grammar span over only two items, therefore "ge" spans over "sinxa", "gu'a" does not.
+By the way, the parts of speech GA and GUhA of the official grammar span over only two items, therefore "ge" spans over "sinxa", "gu'a" does not.
 
 429
 00:50:13,300 --> 00:50:20,000
@@ -1716,7 +1716,7 @@ On the other hand, according to Zantufa, the part of speech GA spans over tanru 
 
 430
 00:50:20,100 --> 00:50:30,200
-for example, "ge ga crino gi pelxu gi xunre gi cu sinxa (it is green, yellow or red, and is signal.)"
+for example, "ge ga crino gi pelxu gi xunre gi cu sinxa (it is green, yellow or red, and is a signal.)"
 
 431
 00:50:34,100 --> 00:50:40,800
@@ -1772,7 +1772,7 @@ That fact misleads anyone interested in Lojban into believing that Gleki's opini
 
 444
 00:52:07,500 --> 00:52:16,900
-I put up with #lojban IRC people assert that #lojban IRC dialects are Lojban and Zantufa is not Lojban.
+I put up with #lojban IRC people asserting that #lojban IRC dialects are Lojban and Zantufa is not Lojban.
 
 445
 00:52:17,000 --> 00:52:21,100
@@ -1788,7 +1788,7 @@ It results in Lojban language being uniformly #lojban IRC dialects.
 
 448
 00:52:33,700 --> 00:52:41,400
-It results in my loosing my place in Lojban community.
+It results in my losing my place in Lojban community.
 
 449
 00:52:41,500 --> 00:52:47,400
@@ -1912,7 +1912,7 @@ If there were a bridge across the color fissure,
 
 479
 00:56:46,000 --> 00:56:58,800
-then you would be again a friend of mine.
+then you would be a friend of mine again.
 
 480
 00:56:58,900 --> 00:57:09,500
@@ -1944,7 +1944,7 @@ but I want the lines of other than Bripre or Mankant to be spoken by others.
 
 487
 00:57:45,600 --> 00:57:59,600
-Chose one of the roles, record the lines in your voice, and send the sound recording to Bripre or Guskant.
+Choose one of the roles, record the lines in your voice, and send the sound recording to Bripre or Guskant.
 
 488
 00:57:59,700 --> 00:58:06,500
